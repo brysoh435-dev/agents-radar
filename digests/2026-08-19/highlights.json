@@ -1,0 +1,150 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.235 发布，Windows/CVP 企业级故障成焦点",
+      "OpenAI Codex rust-v0.148.0 安全自动化流水线发力",
+      "Gemini CLI v0.56.0-nightly Agent 子系统迭代活跃",
+      "GitHub Copilot CLI v1.0.81 沙箱强制策略引发社区反弹",
+      "OpenCode 适配 OpenAI Responses API，安全漏洞当日修复",
+      "Grok Build 过去24小时完全静默，零活动"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时 500 Issues + 500 PR 极高活跃度",
+      "OpenClaw Docker :latest 标签回退异常触发降级守卫",
+      "OpenClaw 大 Claude CLI 历史记录加载阻塞事件循环数分钟修复",
+      "OpenClaw Control UI 支持审查安装策略警告并显式确认",
+      "OpenClaw Telegram Desktop 录制 QA 基础设施 setup 降至秒级",
+      "OpenClaw 零版本发布，处于密集开发期而非稳定交付期"
+    ],
+    "ai-infra": [
+      "vLLM ROCm AITER 优化密集，Kimi-K3 CUDA Graph 静默损坏阻断生产",
+      "SGLang PD 分离架构加固，HiCache 长会话失效待解",
+      "llama.cpp v0.1.2 语义化推进中，多后端算子融合密集",
+      "Ollama v0.32.14 多项严重回归，sm_86 静默回退 CPU",
+      "LiteLLM v1.99.0-dev.1 发布，Docker cosign 签名供应链安全",
+      "Unsloth v0.1.800-beta 多项回归，Studio 桌面端稳定性危机"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo 单日 +2304 stars 强势登顶视频生成",
+      "akitaonrails/ai-memory +648 stars，Agent 长期记忆成爆发主线",
+      "volcengine/OpenViking +213 stars，字节开源 Agent 记忆系统",
+      "jundot/omlx +370 stars，Apple Silicon 专用 LLM 推理服务器新星",
+      "shareAI-lab/learn-claude-code 74,605 stars，从零构建 nano 版 Claude Code",
+      "munder-difflin +306 stars，本地多智能体 harness 成新趋势"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Claude 蛋白质设计成功率 22%-35%，远超行业 10%-15% 基准",
+      "Anthropic Claude Opus 5 23 分钟完成 NMR 数据分析，精度达 96.4%",
+      "Anthropic 首次系统展示湿实验科学端到端能力，Mythos Preview 代号曝光",
+      "Anthropic 红队研究多智能体系统涌现风险，扩展至系统级安全",
+      "OpenAI ChatGPT 广告业务扩展至欧洲市场，任命首席营收官",
+      "OpenAI 发布 Ultrafast 预览，加速产品变现与基础设施布局"
+    ],
+    "ai-hn": [
+      "OpenAI GPT-5.6 Sol OpenRouter 降价 50%，Devin 促销 70% 引发千次互动",
+      "Anthropic Claude 水印文本篡改遭 John Gruber 尖锐批评，814 分创争议峰值",
+      "Cerebras CS-4 晶圆级芯片 4 万亿晶体管发布，177 分 127 评论热议",
+      "Roboflow 评测 GPT-5.6 Sol 为 OpenAI 史上最强视觉模型，成本比成焦点",
+      "Google 收购破产航司 Spirit 数据用于 AI 训练触及数据伦理边界",
+      "Stanford 确定性 CUDA 核函数验证器代表形式化方法进入 AI 底层优化"
+    ],
+    "ai-arxiv": [
+      "自改进智能体脆弱性被系统揭示：方差、任务顺序与规范不足三重威胁",
+      "扩散模型采样优化首次引入贝叶斯调参，显著降低推理成本",
+      "表格基础模型上下文学习机制获得理论解释",
+      "神经符号世界模型向零样本任务迁移迈出关键一步",
+      "经验链范式让 LLM 测试时通过迭代交互持续自我改进",
+      "小模型在显式评分标准下可达大模型评分质量，any-to-bench 架构降本"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 11,211 点赞领跑本周，66 万下载验证开源视觉语言标杆地位",
+      "Kimi-K3 10,832 点赞紧随其后，旗舰多模态模型双雄并立",
+      "MiniMax-H3 1464 万下载量成为视频生成绝对流量入口",
+      "DeepSeek-V4-Flash 212 万下载验证高效推理模型实用价值",
+      "Qwen3.8-2.4T-A95B-FP8 量化版下载量超基础版 1.2 倍，MoE 民主化显著",
+      "NVIDIA Nemotron-3.5-Lightning-30B-NVFP4 26 万下载体现硬件厂商原生优化吸引力"
+    ],
+    "ai-community": [
+      "COSP 自我评分一致性机制让 LLM 自动评估并迭代优化输出",
+      "双时态记忆引擎直面百万 token 长上下文虚假安全感",
+      "14 个 MCP 服务器上下文消耗实测：Claude 计数比 tiktoken 高 64%",
+      "AI 编码代理默认读取 .env 文件，Go 防护方案揭露权限风险",
+      "人类化写作工具实证研究证明统计学上无效，挑战既有假设",
+      "图书追踪事件引发 AI 训练数据伦理边界与版权透明深度讨论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.235 released with patch fixes",
+      "OpenAI Codex v0.148.0 in rapid security-hardening sprint",
+      "Gemini CLI pushes multi-agent orchestration capabilities",
+      "Qwen Code joins multi-agent orchestration race",
+      "No tool has fixed chronic Windows installer issues",
+      "MCP protocol promise outpaces implementation stability"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+      "Docker :latest tag regressed, blocking startup",
+      "82% open issue rate signals maintainer bottleneck",
+      "P0/P1 issues stalled with no-new-fix-pr labels",
+      "Project prioritizes CI over versioned releases",
+      "Session state reliability dominates development"
+    ],
+    "ai-infra": [
+      "vLLM and SGLang land same-day Kimi-K3 optimizations",
+      "ROCm/AMD parity becomes explicit competitive battleground",
+      "Speculative decoding fragments into model-specific architectures",
+      "Disaggregated prefill/decode remains pre-production",
+      "Ollama suffers critical sm_86 regression",
+      "llama.cpp debuts semantic versioning"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo gains 2,304 stars in one day",
+      "Three memory projects trend simultaneously",
+      "Apple Silicon optimization emerges with omlx",
+      "Agent harness becomes recognized architectural pattern",
+      "OpenViking gains traction for agent memory",
+      "Cybersecurity skills framework maps 817 skills"
+    ],
+    "ai-web": [
+      "Claude advances Riemann hypothesis bound to 67.2%",
+      "Protein design success rates hit 22-35%, 2-3x human baseline",
+      "Proof validated by mathematicians Brian Conrey, Dan Goldston",
+      "OpenAI expands ChatGPT advertising into Europe",
+      "OpenAI hires Chief Revenue Officer",
+      "Claude designs binders for 14 of 15 protein targets"
+    ],
+    "ai-hn": [
+      "Anthropic text watermarking sparks 721-comment backlash",
+      "GPT-5.6 Sol gets 50% OpenRouter price cut",
+      "Google acquires Spirit Airlines data for AI training",
+      "Wiz discloses Copilot Autofix vulnerability",
+      "GPT-5.6 Sol called OpenAI's best vision model",
+      "Snowflake Jira compromised via AI security flaw"
+    ],
+    "ai-arxiv": [
+      "Self-improving agents shown critically fragile",
+      "TokEval links tokenizer design to model capability",
+      "Chain-of-Experience enables continual LLM improvement",
+      "LLM-as-judge faces critical uncertainty scrutiny",
+      "Tuned diffusion sampling optimizes inference-time compute",
+      "Recirculation architectures cut perplexity without latency"
+    ],
+    "ai-hf": [
+      "Qwen 3.8-27B tops 11,000 likes",
+      "MiniMax H3 video model hits 2.8 million downloads",
+      "Kimi-K3 challenges multimodal leaders with 11K likes",
+      "DeepSeek-V4-Pro-0813 refresh gets 30,985 downloads",
+      "Qwen 3.8-2.4T MoE pushes frontier scale",
+      "GGUF and FP8 variants dominate downloads"
+    ],
+    "ai-community": [
+      "COSP prompting trick lets LLM grade its own work",
+      "Kiro Crew deploys in 5 minutes via single curl",
+      "Claude Code's 402 error hides usage limit issues",
+      "Amazon allegedly uses rare book shipments for training",
+      "Token trackers disagree by 2-8x in audits",
+      "Joint government guidance drops on agentic AI security"
+    ]
+  }
+}
