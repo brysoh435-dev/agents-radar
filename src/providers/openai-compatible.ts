@@ -21,11 +21,18 @@ export abstract class OpenAICompatibleProvider implements LlmProvider {
   }
 
   async call(prompt: string, maxTokens: number): Promise<string> {
-    const response = await this.client.chat.completions.create({
+    const request = {
       model: this.model,
       max_completion_tokens: maxTokens,
-      messages: [{ role: "user", content: prompt }],
-    });
+      messages: [{ role: "user" as const, content: prompt }],
+      ...(this.client.baseURL.includes("api.moonshot.cn") &&
+      this.model.startsWith("kimi-k2")
+        ? { thinking: { type: "disabled" as const } }
+        : {}),
+    };
+
+    const response = await this.client.chat.completions.create(request);
+
     const text = response.choices[0]?.message?.content;
     if (!text) throw new Error(`Unexpected empty response from ${this.name}`);
     return text;
