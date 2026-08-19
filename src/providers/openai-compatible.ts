@@ -25,7 +25,7 @@ export abstract class OpenAICompatibleProvider implements LlmProvider {
       model: this.model,
       max_completion_tokens: maxTokens,
       messages: [{ role: "user" as const, content: prompt }],
-      ...(this.client.baseURL.includes("api.moonshot.cn") && this.model.startsWith("kimi-k2")
+      ...(this.client.baseURL？.includes("api.moonshot.cn") && this.model.startsWith("kimi-k2")
         ? { thinking: { type: "disabled" as const } }
         : {}),
     };
