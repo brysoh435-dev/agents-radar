@@ -1,0 +1,150 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code shipped v2.1.238 with regressions",
+      "OpenAI Codex released 4 builds in 24 hours",
+      "Qwen Code enforces nightly validation discipline",
+      "Windows bugs plague every major CLI tool",
+      "AGENTS.md standardization battle intensifies",
+      "Kimi CLI enters maintenance mode, zero releases"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs daily",
+      "462 open issues vs 38 closed: backlog crisis",
+      "v2026.8.1-beta.2 stuck in release validation",
+      "P0/P1 regressions growing without fixes",
+      "clawsweeper labels signal maintainer shortage",
+      "Community engaged but resolution velocity lags"
+    ],
+    "ai-infra": [
+      "llama.cpp shipped 10 builds in one day",
+      "vLLM nightly misresolves cu129 to CUDA 13",
+      "Speculative decoding regressions across all engines",
+      "Prefix caching shows zero-hit-rate bugs",
+      "Blackwell SM120 and AMD MI355X fragment targets",
+      "PD separation vs edge deployment bifurcation deepens"
+    ],
+    "ai-trending": [
+      "caveman skill cuts Claude Code tokens 65%",
+      "MoneyPrinterTurbo gains +2,761 stars today",
+      "OpenViking emerges as self-evolving context database",
+      "Cursor/plugins launches extensible agent platform",
+      "modular/modular gains +268 stars for Mojo stack",
+      "akitaonrails/ai-memory targets vendor handoff persistence"
+    ],
+    "ai-web": [
+      "Claude hits 22-35% protein binder design success",
+      "Claude matches professional NMR/LC-MS analysis quality",
+      "Mythos Preview succeeds on 14 of 15 protein targets",
+      "OpenAI teases zero data retention for frontier models",
+      "Anthropic pushes into wet-lab biological workflows",
+      "Opus 4.8 analyzes chemistry data in under 25 minutes"
+    ],
+    "ai-hn": [
+      "Stripe acquires OpenRouter for 944 points",
+      "Don't paste the AI nears 1000 points backlash",
+      "Asana claims 5 years of work in 2 weeks with Codex",
+      "Anna's Archive warns AI destroys rare books",
+      "Unsloth Dynamic 3.0 GGUFs hit 317 points",
+      "Ornith-1.5 scaffolding self-improvement at 208 points"
+    ],
+    "ai-arxiv": [
+      "ConceptGuard exposes context-sensitive unlearning gaps",
+      "Phantom Gains debunks illusory self-improvement claims",
+      "AI4AI-Bench tests recursive self-improvement limits",
+      "MemTrapBench reveals memory retrieval failures",
+      "Pandora's Box enables adaptive test-time compute",
+      "Daedalus-150M optimizes CPU-only LLM inference"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 1.37M downloads, 11,769 likes",
+      "Kimi-K3 challenges with 2.35M downloads",
+      "MiniMax-H3 video model reaches 4.2M downloads",
+      "8 abliterated variants crack top 30 trending",
+      "DeepSeek-V4-Pro-0813 enters the arena",
+      "unsloth GGUF/FP8 quantizers dominate distribution"
+    ],
+    "ai-community": [
+      "MCP memory server built for six-week personal use",
+      "Reasoning Ledger tracks why agents decide, not just data",
+      "Claude Code daily driving surfaces blast radius risks",
+      "Developers share API bill slashing war stories",
+      "Latent reasoning interpretability sparks debate",
+      "Persistent agent memory dominates Dev.to discourse"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code shipped v2.1.238 with regressions",
+      "OpenAI Codex released 4 builds in 24 hours",
+      "Qwen Code enforces nightly validation discipline",
+      "Windows bugs plague every major CLI tool",
+      "AGENTS.md standardization battle intensifies",
+      "Kimi CLI enters maintenance mode, zero releases"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs daily",
+      "462 open issues vs 38 closed: backlog crisis",
+      "v2026.8.1-beta.2 stuck in release validation",
+      "P0/P1 regressions growing without fixes",
+      "clawsweeper labels signal maintainer shortage",
+      "Community engaged but resolution velocity lags"
+    ],
+    "ai-infra": [
+      "llama.cpp shipped 10 builds in one day",
+      "vLLM nightly misresolves cu129 to CUDA 13",
+      "Speculative decoding regressions across all engines",
+      "Prefix caching shows zero-hit-rate bugs",
+      "Blackwell SM120 and AMD MI355X fragment targets",
+      "PD separation vs edge deployment bifurcation deepens"
+    ],
+    "ai-trending": [
+      "caveman skill cuts Claude Code tokens 65%",
+      "MoneyPrinterTurbo gains +2,761 stars today",
+      "OpenViking emerges as self-evolving context database",
+      "Cursor/plugins launches extensible agent platform",
+      "modular/modular gains +268 stars for Mojo stack",
+      "akitaonrails/ai-memory targets vendor handoff persistence"
+    ],
+    "ai-web": [
+      "Claude hits 22-35% protein binder design success",
+      "Claude matches professional NMR/LC-MS analysis quality",
+      "Mythos Preview succeeds on 14 of 15 protein targets",
+      "OpenAI teases zero data retention for frontier models",
+      "Anthropic pushes into wet-lab biological workflows",
+      "Opus 4.8 analyzes chemistry data in under 25 minutes"
+    ],
+    "ai-hn": [
+      "Stripe acquires OpenRouter for 944 points",
+      "Don't paste the AI nears 1000 points backlash",
+      "Asana claims 5 years of work in 2 weeks with Codex",
+      "Anna's Archive warns AI destroys rare books",
+      "Unsloth Dynamic 3.0 GGUFs hit 317 points",
+      "Ornith-1.5 scaffolding self-improvement at 208 points"
+    ],
+    "ai-arxiv": [
+      "ConceptGuard exposes context-sensitive unlearning gaps",
+      "Phantom Gains debunks illusory self-improvement claims",
+      "AI4AI-Bench tests recursive self-improvement limits",
+      "MemTrapBench reveals memory retrieval failures",
+      "Pandora's Box enables adaptive test-time compute",
+      "Daedalus-150M optimizes CPU-only LLM inference"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 1.37M downloads, 11,769 likes",
+      "Kimi-K3 challenges with 2.35M downloads",
+      "MiniMax-H3 video model reaches 4.2M downloads",
+      "8 abliterated variants crack top 30 trending",
+      "DeepSeek-V4-Pro-0813 enters the arena",
+      "unsloth GGUF/FP8 quantizers dominate distribution"
+    ],
+    "ai-community": [
+      "MCP memory server built for six-week personal use",
+      "Reasoning Ledger tracks why agents decide, not just data",
+      "Claude Code daily driving surfaces blast radius risks",
+      "Developers share API bill slashing war stories",
+      "Latent reasoning interpretability sparks debate",
+      "Persistent agent memory dominates Dev.to discourse"
+    ]
+  }
+}
