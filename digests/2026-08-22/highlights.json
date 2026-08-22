@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.239 数据驻留溢价计费上线",
+      "OpenAI Codex 5 个 Rust alpha 版本密集发布",
+      "OpenCode v1.18.20/21 双发兼容 Claude Code 钩子",
+      "Gemini CLI v0.56.0-nightly 部署 PR Generation 基础设施",
+      "Qwen Code v0.21.14-nightly 修复会话竞态安全漏洞",
+      "DeepSeek TUI v0.9.11 RC 首现多模态支持"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 500 Issues + 500 PRs 积压严重",
+      "OpenClaw P0 级网关内存泄漏 RSS 飙至 15.5GB",
+      "OpenClaw #126424 安全修复阻断跨会话消息泄露",
+      "OpenClaw beta.2 事件循环每 10 分钟冻结约 100 秒",
+      "OpenClaw SQLite 腐败回归生产环境亮红灯",
+      "OpenClaw 安装策略警告需管理员显式确认"
+    ],
+    "ai-infra": [
+      "SGLang v0.5.18 发布含 710 PRs 创发布强度纪录",
+      "llama.cpp v0.2.0 里程碑式进入 semver 时代",
+      "vLLM 500+ PR 高并发开发 DeepSeek-V4-Flash 仍阻塞",
+      "Ollama v0.33.0-rc1 预发布修复 MLX 跨平台崩溃",
+      "LiteLLM 257 PR 冲刺 v1.99.0-dev.2 安全计费密集修补",
+      "Unsloth Studio v0.1.801-beta Linux 稳定性告急"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo 单日 +1201 星领跑 AI 短视频生成",
+      "Apache Maka 本地优先 Agent 工作空间进入 Apache 孵化",
+      "Graphify 以知识图谱替代向量存储获 10 万+ 星认可",
+      "affaan-m/ECC 24 万星 Agent 性能优化系统登热榜",
+      "cursor/plugins 官方插件规范发布 +388 星验证生态开放",
+      "modular/modular MAX 引擎 +913 星反映 Python 替代期待"
+    ],
+    "ai-hn": [
+      "OpenRouter 被 Stripe 收购以 953 分登顶 HN",
+      "Anna's Archive 控诉 AI 公司销毁实体书引 845 条激辩",
+      "Huzzah 结构化提示编码新范式获 362 分 206 评论",
+      "OpenRouter 神秘新模型 Ox Alpha 架构猜测热烈",
+      "Claudette/Vomit 反 AI 腔调工具意外高赞引审美疲劳",
+      "Proliferate 开源自托管 Codex 替代方案 37 分登榜"
+    ],
+    "ai-arxiv": [
+      "MidTool 中期训练合成数据提升 Agent 工具使用能力",
+      "Phantom Gains 揭露 LoRA 自迭代虚假增益测量陷阱",
+      "Break It Down, Pass It On 系统研究 Agent 技能跨任务迁移",
+      "Learning When to Think 自适应分配推理计算资源",
+      "AI4AI-Bench 构建递归自我改进真实性验证基准",
+      "Daedalus-150M 反向设计 CPU 优先的卷积注意力混合模型"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 11,981 点赞 172 万下载断层统治 HF 热榜",
+      "Kimi-K3 10,915 点赞 244 万下载量反超 Qwen 成部署最活跃",
+      "MiniMax-H3 视频生成 360 万下载成多模态最大黑马",
+      "DeepSeek-V4-Flash-0731 283 万下载成效率场景首选",
+      "Qwen3.8-27B-DFlash2 引入投机解码低延迟技术实验",
+      "社区去审查微调模型泛滥反映安全对齐反向需求"
+    ],
+    "ai-community": [
+      "Pi Agent vs OpenCode 100+ 小时真实使用对比实测",
+      "15 美元树莓派 Zero 2 W 实现 5.3% RTF 始终在线唤醒词",
+      "7 Checks 框架识别 LLM 规划器实验统计陷阱",
+      "PlannerCritic 对抗性提示设计反直觉后果实战经验",
+      "Agent 金融语义绕过暴露安全防护致命盲区",
+      "AI Agent 无需记忆直接搜索过去的架构新思路"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code ships v2.1.239 release",
+      "OpenAI Codex drops 5 pre-releases in 24h",
+      "Codex rewrites CLI in Rust",
+      "Gemini CLI pushes agentic autonomy",
+      "OpenCode clones Claude Code patterns",
+      "Qwen Code builds multi-agent orchestration"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs",
+      "OpenClaw beta suffers 100s event loop blocking",
+      "485 OpenClaw issues remain open vs 15 closed",
+      "396 OpenClaw PRs open vs 104 merged",
+      "OpenClaw v2026.8.1-beta.2 in validation",
+      "SQLite corruption bug hits OpenClaw beta"
+    ],
+    "ai-infra": [
+      "vLLM faces 7 critical production blockers",
+      "SGLang merges 710 PRs for v0.5.18 release",
+      "Disaggregated prefill/decode becomes new standard",
+      "Blackwell sm_100 kernels hit stability issues",
+      "Ampere sm_80 faces deprecation pressure",
+      "LiteLLM routing bugs persist at scale"
+    ],
+    "ai-trending": [
+      "ECC hits 241K stars, +357 today",
+      "career-ops gains 921 stars in one day",
+      "MoneyPrinterTurbo adds 1,201 stars today",
+      "Mojo-based Modular surges 913 stars",
+      "claude-mem builds agent memory layers",
+      "CodeWhale rides Rust AI infrastructure wave"
+    ],
+    "ai-hn": [
+      "Stripe acquires OpenRouter for AI routing",
+      "Ox Alpha stealth model sparks speculation",
+      "AI companies caught destroying books for training",
+      "AI blindness anxiety grips HN community",
+      "AI homework help shown to harm learning",
+      "Two projects target Claude's verbose style"
+    ],
+    "ai-arxiv": [
+      "Phantom Gains debunks LLM self-improvement",
+      "Adaptive test-time compute allocation emerges",
+      "Agent cross-task skill transfer advances",
+      "CPU-optimized small LLMs gain traction",
+      "Confidence estimation methods improve",
+      "Legal query benchmarks proliferate"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 11,981 likes",
+      "Kimi-K3 hits 2.45M downloads, challenges Qwen",
+      "Uncensored fine-tunes dominate downloads",
+      "DeepSeek V4 Pro and Flash maintain presence",
+      "MiniMax H3 pushes video generation",
+      "Zero-download template fix gets 1,373 likes"
+    ],
+    "ai-community": [
+      "Pi Agent vs OpenCode after 100+ hours tested",
+      "Wake-word runs on $15 Raspberry Pi Zero",
+      "Agent security guardrails under fire",
+      "Speculative decoding achieves 3x consumer GPU speed",
+      "LLM invents fifth fact in hallucination demo",
+      "Planner verification limits exposed"
+    ]
+  }
+}
