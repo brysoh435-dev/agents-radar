@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode 单日 50 PR 全场最活跃，Question 工具交互体系修复",
+      "Qwen Code 发布 v0.22.0 正式版，Review 循环与可信 Agent 并进",
+      "Claude Code v2.1.241 维护补丁，AGENTS.md 提案关闭引猜测",
+      "OpenAI Codex rust-v0.150.0-α.7 双轨迭代，认证脆弱性成焦点",
+      "Gemini CLI v0.56.0-nightly Agent 子系统 P1 bug 密集涌现",
+      "GitHub Copilot CLI BYOK 多模型切换呼声 53👍 占总量 86%"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 500 Issues/PRs，关闭率仅 5.8% 积压风险加剧",
+      "PR #126424 修复七大通道跨会话信息泄露安全边界",
+      "PR #125471 修复 Claude CLI OAuth 重启后 refresh 丢失",
+      "PR #116489 插件安装引入显式人工审核确认机制",
+      "PR #127353 待合并：终止 Slack/Telegram 死信重试风暴",
+      "beta.2 版本 P0/P1 稳定性问题密集：内存泄漏、SQLite 损坏"
+    ],
+    "ai-infra": [
+      "vLLM DeepSeek-V4 SM12x Flash 适配最完整，PD 分离落地",
+      "SGLang 309 PR 更新，ServerArgs 重构 8 个堆叠 PR",
+      "llama.cpp 9 日更 b10580-b10588，SYCL 后端拖累 Intel GPU",
+      "Ollama v0.32.11-0.32.15 回归集中爆发，稳定性反噬",
+      "LiteLLM v1.99.0-rc.1 供应链安全 cosign + 计费准确性",
+      "Unsloth 桌面端 4 个 P0 稳定性危机，长思维链 3000+ 行待解"
+    ],
+    "ai-trending": [
+      "OpenAI Codex +1544 stars 领跑，Rust 终端 Agent 入场",
+      "mattpocock/skills +2683 stars，Agent 技能工程化成新范式",
+      "CodeWhale 40844 stars，Rust 社区驱动终端编码 Agent",
+      "Tencent AI-Infra-Guard +150 stars，AI 红队安全审计刚需",
+      "cursor/plugins +286 stars，IDE 插件向 MCP/Agent 扩展",
+      "DeepSeek-Reasonix 35052 stars，prefix-cache 长时运行优化"
+    ],
+    "ai-hn": [
+      "Anna's Archive 控诉 AI 公司销毁实体书，611 分 892 评论",
+      "OpenRouter 被 Stripe 收购，Ox Alpha stealth 模型引发猜测",
+      "开发者实测 Codex 替代 Claude 一周，评论区迁移经验潮",
+      "Autolith 实时运行时代码执行 Agent，调试交互受关注",
+      "Claude 编码能力衰减讨论，Claudette 等替代方案涌现",
+      "OpenAI 网络安全能力开发节奏框架，社区质疑监管捕获"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 12162 点赞 209 万下载，前 7 占 6 绝对主导",
+      "Kimi-K3 10930 点赞 261 万下载，compressed-tensors 压缩技术",
+      "MiniMax-H3 393 万下载，视频生成模型商业化验证",
+      "DeepSeek-V4-Flash-0731 297 万下载，效率优先用户首选",
+      "Ornith-1.5-35B-A3B 35B/3B MoE 稀疏激活，边缘部署探针",
+      "GGUF 格式占半壁江山，量化与去审查化微调异常活跃"
+    ],
+    "ai-community": [
+      "12 岁开发者 Android 手机构建全栈 AI SaaS",
+      "PlannerCritic 开源引擎：LLM 评估 LLM Agent 揭示规模陷阱",
+      "用户关闭标签页后 LLM 资源泄漏，成本盲区被戳破",
+      "同字节不同模型 token 差 20%，多路由成本核算关键",
+      "自研基准测试反压模型表现，评估方法论自反警示",
+      "AI 编码难点不在使用而在判断何时不可信"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code adopts AGENTS.md cross-tool standard",
+      "OpenAI Codex leads with 9 merged PRs in 24h",
+      "Windows parity remains unresolved industry-wide liability",
+      "Qwen Code pursues deterministic runtime security research",
+      "OpenCode drives rapid feature iteration architecture",
+      "v2.1.240–241 patch releases ship for Claude Code"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+      "94% open PR rate signals severe maintainer backlog",
+      "v2026.8.1-beta.2 stabilization blocked by reliability issues",
+      "P0-P1 memory leaks and crashes dominate issue queue",
+      "Zero stable releases as systemic stability concerns mount",
+      "Auth reliability fix closed after gateway restart bug"
+    ],
+    "ai-infra": [
+      "vLLM and SGLang race for DeepSeek-V4 Blackwell readiness",
+      "Production stability fears force operators to pin older versions",
+      "LiteLLM adds cosigned images and cache-read pricing",
+      "SGLang's Weight Cache Daemon blurs local-distributed boundary",
+      "vLLM PCP tensor parallelism pushes single-node multi-tenant",
+      "Scheduler deadlocks and KV cache corruption plague releases"
+    ],
+    "ai-trending": [
+      "mattpocock/skills surges +2,683 stars in agent skills rush",
+      "OpenAI Codex CLI gains +1,544 stars as terminal agent leader",
+      "Tencent AI-Infra-Guard launches red-teaming platform +150",
+      "affaan-m/ECC crystallizes agent harness optimization concept",
+      "Cursor/plugins +286 signals IDE platformization strategy",
+      "Three skills repos surge as developers standardize agent config"
+    ],
+    "ai-hn": [
+      "AI book destruction scandal ignites 892-comment outrage thread",
+      "OpenRouter Stripe acquisition hits 955 points on HN",
+      "Personal 'AI blindness' post resonates with 479 comments",
+      "Ox Alpha stealth model sparks breakthrough vs hype debate",
+      "Texas student exposes rogue AI hacking security threat",
+      "Anti-AI fonts and watermarking trigger heated skepticism debate"
+    ],
+    "ai-hf": [
+      "Qwen 3.8 family claims 18 of 30 trending model spots",
+      "Kimi-K3 dark horse hits 10,930 likes outpacing Qwen base",
+      "DeepSeek-V4-Flash-0731 racks up 2.97M downloads",
+      "MiniMax-H3 video model surges to 3.9M downloads",
+      "Uncensored variants exceed 25% of all trending models",
+      "LTX-2.5 pushes open image-to-video boundaries"
+    ],
+    "ai-community": [
+      "12-year-old builds full-stack AI SaaS on Android phone",
+      "PlannerCritic exposes systematic agent failure patterns",
+      "Cost-conscious engineering scrutinizes token billing waste",
+      "1985 AI limits video resurfaces on Lobste.rs",
+      "Bigger models fail to fix planner's repeated 3 mistakes",
+      "AI slop saturation critique warns of ecosystem damage"
+    ]
+  }
+}
