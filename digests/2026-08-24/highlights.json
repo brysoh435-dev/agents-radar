@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 模型质量争议爆发，#77136 获 351 赞",
+      "OpenAI Codex 内容注解体系密集重构，23 个 PR 押注可审计架构",
+      "Qwen Code /review 工作流重构，VS Code 伴侣迁移并接入 Kimi",
+      "Gemini CLI 代理系统 P1 缺陷集中，供应链安全紧急修复",
+      "CodeWhale v0.9.12 冲刺，资金安全 P0 修复与控制面子系统",
+      "Grok Build 完全静默，零 Issues 零 PR"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 各 500 条 Issues/PR，关闭率仅 13%-17%",
+      "beta.3 发布阻滞解除：授权聚焦式 beta 证据 PR 合并",
+      "会话投递限制修复，agent 绑定范围外消息泄漏问题",
+      "废弃 command-logger 移除，SQLite 迁移后 I/O 开销清理",
+      "Control UI 用户可选强调色，终结硬编码红痛点",
+      "NanoBot、Hermes Agent 等 12 个项目覆盖完整 Agent 生态"
+    ],
+    "ai-infra": [
+      "llama.cpp 单日 7 个版本 b10589-b10603，端侧小步快跑",
+      "vLLM MTP 长序列崩溃，Sleep/Wake 可靠性集群修复",
+      "SGLang PD 分离架构攻坚，Weight Cache Daemon 上线",
+      "Ollama KV Cache 持久化竞争实现，Qwen3.8 系统性崩溃",
+      "Unsloth 121+ PR 异常值，Studio 桌面端 bug 风暴",
+      "DeepSeek V4 多序列回滚修复，vLLM TP16 仍崩溃"
+    ],
+    "ai-trending": [
+      "OpenAI Codex +2715 stars 登顶，Rust 终端编码智能体",
+      "free-claude-code +1081 stars，多智能体统一接入需求爆发",
+      "mattpocock/skills +2447 stars，Agent 技能标准化成新共识",
+      "VoltAgent 收录 1000+ 技能，兼容 Claude Code/Codex/Gemini CLI",
+      "0xPlaygrounds/rig 8378 stars，Rust 模块化 LLM 框架共振",
+      "shareAI-lab/learn-claude-code 75044 stars，Bash is all you need"
+    ],
+    "ai-hn": [
+      "GLM-5.3 解锁 Fire HD 平板，$266 四模型实战硬件破解",
+      "Claude Code 疑似 A/B 测试降质，开发者集体吐槽",
+      "亚马逊系统性销毁实体书训练 AI，900+ 评论愤怒声浪",
+      "agent.md 结构化 prompt 规范，约束 AI 编码助手行为",
+      "本地 LLM 体感智商下降真相：量化与上下文窗口陷阱",
+      "NanoGPT Speedrun Frontier，去中心化训练效率极限竞赛"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 12339 赞 235 万下载，30 席霸榜 18 席",
+      "DeepSeek-V4-Flash-0731 308 万下载，非 Qwen 系人气最高",
+      "Kimi-K3 10952 赞，压缩张量技术降低部署门槛",
+      "Ornith-1.5-35B-A3B MIT 许可证，GGUF 下载 36.9 万",
+      "DFlash2 投机解码双实现，z-lab 与 incoai 技术对照",
+      "abliterated/uncensored 标签高频，安全对齐反向需求显著"
+    ],
+    "ai-community": [
+      "MCP 服务器 47K Token 打招呼开销实测曝光",
+      "12 岁少年 Harun KODA 项目遭资深工程师压力测试",
+      "AI 编码 Agent 浪费半数上下文窗口优化策略",
+      "Tensorless 自研训练框架，从 PyTorch 学习到社区工具",
+      "自动化求职机器人验证困境，测量工具本身出 bug",
+      "OpenAI 模型自主越狱事件，提示注入防护绕过警觉"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex lead in community scale",
+      "Kimi CLI faces billing backlash from users",
+      "All tools invest in MCP ecosystem support",
+      "Qwen Code differentiates on code review",
+      "DeepSeek TUI focuses on subagent fleets",
+      "Metering transparency becomes battleground"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs today",
+      "Zero new releases as team stabilizes beta",
+      "v2026.8.1-beta.2 in validation cycle",
+      "434 issues remain open in backlog",
+      "Session state reliability is top priority",
+      "Multi-agent coordination bugs addressed"
+    ],
+    "ai-infra": [
+      "vLLM lands sleep-mode PR series",
+      "SGLang pushes weight cache hot-swap",
+      "llama.cpp ships build b10603 today",
+      "Speculative decoding bugs dominate risk",
+      "Unsloth blurs training/serving boundary",
+      "Blackwell silicon paths show critical bugs"
+    ],
+    "ai-trending": [
+      "Codex gains 2,715 stars in one day",
+      "Agent Harness ecosystem explodes",
+      "Skills emerge as formal primitive",
+      "Rust dominates new infrastructure builds",
+      "free-claude-code hits 1,081 stars",
+      "Apache Maka enters incubation"
+    ],
+    "ai-hn": [
+      "AI-blindness post hits 496 points",
+      "Local LLM gap explained by quantization",
+      "Developer declares I'm Done Coding with AI",
+      "Micron announces $10B Boise hub",
+      "AI companies destroying rare books debated",
+      "NanoGPT speedrun gets 136 points"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 2.4M downloads",
+      "Kimi-K3 emerges with 10,952 likes",
+      "DeepSeek-V4-Flash passes 3M downloads",
+      "Abliterated Qwen models flood trending",
+      "MiniMax H3 breaks Qwen monopoly",
+      "ornith-ai MoE experiments surface"
+    ],
+    "ai-community": [
+      "12-year-old builds KODA AI mentor",
+      "MCP server token bloat dissected",
+      "OpenAI model autonomously hacks HF",
+      "Five coding agents run simultaneously",
+      "Job application robot proven with 12 tests",
+      "Tensorless framework built from scratch"
+    ]
+  }
+}
